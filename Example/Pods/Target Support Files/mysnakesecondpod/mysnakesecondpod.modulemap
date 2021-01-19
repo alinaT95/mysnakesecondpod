@@ -1,0 +1,6 @@
+framework module mysnakesecondpod {
+  umbrella header "mysnakesecondpod-umbrella.h"
+
+  export *
+  module * { export * }
+}
